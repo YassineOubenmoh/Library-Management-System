@@ -1,6 +1,23 @@
-# Library-Management-System
-This project is a system of library designed to manage and organize library operations efficiently. The system helps in maintaining records of books, library members, and borrowing activities. It allows librarians to add, update, search, and remove book information from the database.
+📚 Library Management System
 
-The system also manages the process of issuing and returning books, keeping track of due dates and availability. In addition, it stores member details and their borrowing history. By using this system, library management becomes easier, faster, and more organized compared to manual record keeping.
+A simple web-based Library Management System built using PHP, HTML, CSS, and JavaScript, designed to manage books, students, and borrowing records efficiently.
 
-Overall, this project aims to simplify library management and improve the efficiency of handling books and users within the library.
+⚡ Features
+
+Add / List Books – Manage the library collection.
+
+Add / List Students – Register and manage student information.
+
+Add / List Borrowings – Track borrowed books and due dates.
+
+User Authentication – Login system for secure access.
+
+Responsive Design – Works on desktop and mobile devices using Bootstrap.
+
+🛠️ Technology Stack
+
+Frontend: HTML, CSS, JavaScript, Bootstrap
+
+Backend: PHP
+
+Database: MySQL (assumed based on PHP)
